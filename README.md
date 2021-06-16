@@ -1,5 +1,5 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
-
+[Live URL](https://ms-dj-events-next-js.vercel.app/)
 # Next.js App
 
 You will be able to see the events that the users shared and if you want to share something you can register and add, update and delete your events.
