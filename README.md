@@ -1,4 +1,4 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+- Give credit to this course [Next.js Dev to Deployment](https://www.udemy.com/course/nextjs-dev-to-deployment/) 
 - [Live URL](https://ms-dj-events-next-js.vercel.app/)
 # Next.js App
 
